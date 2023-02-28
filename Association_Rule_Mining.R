@@ -28,7 +28,7 @@ inspect(Shipping_rules)
 itemFrequencyPlot(shipping_Details, topN=20, type="absolute")
 
 # Ok, it is clear that more non-fragile shipments are placed to transport 
-# and roadways is hte most preferred means of transport. 
+# and roadways is the most preferred means of transport. 
 # This may be for the reasons like major chunk of customers are working class 
 # and the delivery location is not remote.
 
